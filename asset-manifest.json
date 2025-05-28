@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coin_gamblers/static/css/main.2b264563.css",
+    "main.js": "/coin_gamblers/static/js/main.d962e008.js",
+    "static/js/453.dd30ba4c.chunk.js": "/coin_gamblers/static/js/453.dd30ba4c.chunk.js",
+    "index.html": "/coin_gamblers/index.html",
+    "main.2b264563.css.map": "/coin_gamblers/static/css/main.2b264563.css.map",
+    "main.d962e008.js.map": "/coin_gamblers/static/js/main.d962e008.js.map",
+    "453.dd30ba4c.chunk.js.map": "/coin_gamblers/static/js/453.dd30ba4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b264563.css",
+    "static/js/main.d962e008.js"
+  ]
+}
